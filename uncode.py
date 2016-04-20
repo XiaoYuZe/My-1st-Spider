@@ -1,0 +1,7 @@
+import sys
+c = "\u67e5\u8be2\u6761\u4ef6\u4e2d\u542b\u6709\u975e\u6cd5\u5b57\u7b26\uff0c\u8bf7\u67e5\u8bc1\uff01"
+d="\u67e5\u8be2\u6761\u4ef6\u4e2d\u542b\u6709\u975e\u6cd5\u5b57\u7b26\uff0c\u8bf7\u67e5\u8bc1\uff01"
+# print unicode(c).encode('utf8'),unicode(d).encode('utf8')
+a=sys.path
+print a
+print a[0]
